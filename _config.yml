@@ -135,8 +135,7 @@ navigation_header:
   url: https://dovahkiin1995.github.io
 
 navigation_footer:
-- title: Created by David Darnes
-  url: https://darn.es
+- title: Created by Malyaban Bal
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   LinkedIn: www.linkedin.com/in/malyaban-bal-471997103
