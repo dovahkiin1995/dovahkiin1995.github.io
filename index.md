@@ -1,7 +1,7 @@
 ---
-title: About Alembic
+title: Malyaban Bal
 feature_text: |
-  Life & Times of
+  # Life & Times of
   ## Malyaban Bal
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
