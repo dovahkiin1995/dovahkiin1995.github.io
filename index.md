@@ -4,7 +4,7 @@ feature_text: |
   # Chronicle of a Sentient
 feature_image: "https://picsum.photos/1300/400?image=989"
 ---
-![Image](https://photos.app.goo.gl/FagrvnLtvaffBQpn7)
+![Image](/assets/profile_image.jpg)
 Passionate brain-inspired algorithmic researcher, engineer, PhD candidate, reader...
 
 ## Features
