@@ -2,9 +2,8 @@
 title: Malyaban Bal
 feature_text: |
   Life & Times of
-  # Malyaban Bal
+  # A Sentient
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
 Passionate brain-inspired algorithmic researcher, engineer, PhD candidate, reader...
