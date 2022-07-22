@@ -1,8 +1,7 @@
 ---
 title: Malyaban Bal
 feature_text: |
-  Life & Times of
-  # A Sentient
+  # Chronicle of a Sentient
 feature_image: "https://picsum.photos/1300/400?image=989"
 ---
 
