@@ -66,7 +66,7 @@ collections:
     title: Penned Thoughts # Needed for Siteleaf
     output: true
     description: "Thoughts and ideas" # The post list page content
-    feature_image: "https://madmuseum.org/sites/default/files/styles/5_x_3/public/2015/03/01_The%20Sacrifice%2C%201986%2C%20Andrei%20Tarkovsky%2C%20image%20courtesy%20of%20Kino%20Lorber_0.jpg?itok=dY8YpDsR"
+    feature_image: "https://s3.amazonaws.com/criterion-production/janus_stills/2781-/28150id_024_primary_w1600.jpg"
 
 # 6. Jekyll collections settings
 defaults:
