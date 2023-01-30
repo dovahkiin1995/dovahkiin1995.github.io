@@ -1,7 +1,6 @@
 ---
-title: Malyaban Bal
-feature_text: |
-  # Chronicle of a Sentient
+title: Chronicles of a Sentient
+feature_text: 
 feature_image: "/assets/cover.jpeg"
 ---
 Passionate brain-inspired algorithmic researcher, engineer, PhD candidate, reader...
