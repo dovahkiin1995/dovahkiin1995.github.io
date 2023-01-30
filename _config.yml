@@ -123,17 +123,15 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
-- title: Projects
+- title: Left Brain
   url: /projects/
-- title: Blog
+- title: Right Brain
   url: /blog/
-- title: CV
+- title: Serious Stuff
   url: /cv/
 - title: Search
   url: /search/
-- title: Malyaban Bal
-  url: https://dovahkiin1995.github.io
-
+  
 navigation_footer:
 - title: Created by Malyaban Bal
 
