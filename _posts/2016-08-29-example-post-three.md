@@ -1,18 +1,23 @@
 ---
-title: Description of a Pot Still
+title: Charade of Intelligence
 categories:
 - General
 excerpt: |
-  A pot still is a type of still used in distilling spirits such as whisky or brandy. Heat is applied directly to the pot containing the wash (for whisky) or wine (for brandy).
+  Accepting the absurd doesn’t make one a pessimist, for one can always sit back and enjoy the chords played by a maestro without the intense urge to create a melody of their own.
 feature_text: |
-  ## The Pot Still
-  The modern pot still is a descendant of the alembic, an earlier distillation device
+  ## Charade of Intelligence
 feature_image: "https://picsum.photos/2560/600?image=733"
 image: "https://picsum.photos/2560/600?image=733"
 ---
 
-A pot still is a type of still used in distilling spirits such as whisky or brandy. Heat is applied directly to the pot containing the wash (for whisky) or wine (for brandy). This is called a batch distillation (as opposed to a continuous distillation).
+At the inception of all evolutionary traits, there is a dread of decimation. Is it the will to live or the fear of death that controls the living? Anyhow its this adversarial system of survival and death that paves the way for existence of any species that haven’t been kicked out (yet?) from this grand celebration that we call life.
 
-At standard atmospheric pressure, alcohol boils at 78 °C (172 °F), while water boils at 100 °C (212 °F). During distillation, the vapour contains more alcohol than the liquid. When the vapours are condensed, the resulting liquid contains a higher concentration of alcohol. In the pot still, the alcohol and water vapour combine with esters and flow from the still through the condensing coil. There they condense into the first distillation liquid, the so-called "low wines". The low wines have a strength of about 25–35% alcohol by volume, and flow into a second still. It is then distilled a second time to produce the colourless spirit, collected at about 70% alcohol by volume. Colour is added through maturation in an oak aging barrel, and develops over time.
+The same adversarial system that helps other life forms to simply exist, was harnessed by us human beings to extend into something even more ‘grandeur’. We named it ‘civilization’. It is believed by us humans, that human beings vastly surpass all other species in terms of ‘intelligence’. Yet in spite of the sentience that nature has bestowed upon mankind, we are the least conscious of our inevitable demise. Our intelligence is not an instrument with which we can see the truth and embrace it, on the flip-side its a conjuror of mirages. The simplicity of existence doesn’t entice the ‘intelligent’ mind, it cannot wrap around the idea that we are just audiences in an endless cosmic play.
 
-The modern pot still is a descendant of the alembic, an earlier distillation device.
+The sense of purpose that we try to label onto every action we take in life, stems from conceit — the same ludicrous sense of pride that labels other life forms inferior to itself. Escaping from jungles to cities and perhaps to different planets won’t change in anyways the fundamental absurdity that governs us and all other life forms. Accepting the absurd doesn’t make one a pessimist, for one can always sit back and enjoy the chords played by a maestro without the intense urge to create a melody of their own.
+
+For the vast majority of our species which cannot understand and appreciate an absurd universe, an intoxicating mist of ego, morality and all the other things that follow is created by our intelligence, as a survival mechanism from the threat that is ‘us’. Like the Atlas moths, that tries to survive from its predators by camouflaging as a snake, we try to conjure up reasons for our futile existence through spitting venom into the world. Through constant confrontations both internally and externally we try to remind us that all of this has a meaning and won’t be perished after all.
+
+Contrary to the belief that we are at the helm of all life forms, we perhaps are like the jesters and mimes that entertain the cosmic court. We conjure up empires and wars only to be laughed at by the eternal king.
+
+## “Be melting snow. Wash yourself of yourself.” — Rumi
