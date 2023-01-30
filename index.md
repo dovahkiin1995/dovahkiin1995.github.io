@@ -14,7 +14,7 @@ Passionate brain-inspired algorithmic researcher, engineer, PhD candidate, reade
 </blockquote>
 
 
-
+<style>
 blockquote {
   text-align: center;
   font-weight: bold;
@@ -22,11 +22,13 @@ blockquote {
 blockquote footer {
   font-size: .8rem;
 }
+</style>
 
-
+<script>
 const blockquote = document.querySelector("blockquote")
 const bolden = (keyString, string) =>
   string.replace(new RegExp(keyString, 'g'), '<strong>'+keyString+'</strong>')
 
 blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
+</script>
 
