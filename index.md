@@ -2,7 +2,7 @@
 title: Malyaban Bal
 feature_text: |
   # Chronicle of a Sentient
-feature_image: "/assets/brain_icon.jpg"
+feature_image: "/assets/cover.jpeg"
 ---
 Passionate brain-inspired algorithmic researcher, engineer, PhD candidate, reader...
 
