@@ -66,7 +66,7 @@ collections:
     title: Penned Thoughts # Needed for Siteleaf
     output: true
     description: "Thoughts and ideas" # The post list page content
-    feature_image: "https://www.cageyfilms.com/wp-content/uploads/2017/07/stalker_05a.jpg"
+    feature_image: "https://wallpaperaccess.com/full/2025433.jpg"
 
 # 6. Jekyll collections settings
 defaults:
