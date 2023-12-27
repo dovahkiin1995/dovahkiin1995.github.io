@@ -1,8 +1,8 @@
 ---
-title: Chronicles of a Sentient
+title: Malyaban Bal
 feature_text: 
 ---
-Passionate brain-inspired algorithmic researcher, engineer, PhD candidate, reader...
+Passionate Brain-inspired ML Researcher, Engineer, Reader...
 
 <blockquote cite="http://www.imdb.com/title/tt0284978/quotes/qt1375101">
   <p>You planning a vacation, Mr. Sullivan?</p>
@@ -14,7 +14,7 @@ Passionate brain-inspired algorithmic researcher, engineer, PhD candidate, reade
 
 <style>
 blockquote {
-  text-align: center;
+  text-align: left;
   font-weight: bold;
 }
 blockquote footer {
