@@ -5,7 +5,7 @@ feature_text:
 Passionate Brain-inspired ML Researcher, Engineer, Reader...
 
 <blockquote>
-  <p>Paper titled "SpikingBERT: Distilling BERT to Train Spiking Language Models Using Implicit Differentiation" to be presented at</p>  <p style="color:red;">AAAI-24 Vancouver.</p> <p href="https://arxiv.org/pdf/2308.10873.pdf">Paper Link</a>
+  <p>Paper titled "SpikingBERT: Distilling BERT to Train Spiking Language Models Using Implicit Differentiation" to be presented at</p><p style="color:red;">AAAI-24 Vancouver.</p> <p href="https://arxiv.org/pdf/2308.10873.pdf">Paper Link</a>
   <p>Paper titled "Sequence Learning Using Equilibrium Propagation" presented at IJCAI-23 Macao.</p> <a href="https://www.ijcai.org/proceedings/2023/0329.pdf">Paper Link</a>
   <footer>
     <a href="http://www.imdb.com/title/tt0284978/quotes/qt1375101">Sunways Security Guard</a>
