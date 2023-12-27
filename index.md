@@ -9,6 +9,7 @@ Passionate Brain-inspired ML Researcher, Engineer, Reader...
     <p><span>"Delving Deeper Into Astromorphic Transformers" uploaded to arxiv</span> <a href="https://arxiv.org/pdf/2312.10925.pdf">Paper Link.</a></p>
   <p><span>"Sequence Learning Using Equilibrium Propagation" presented at</span><span style="color:#05bf85;"> IJCAI-23 Macao.</span> <a href="https://www.ijcai.org/proceedings/2023/0329.pdf">Paper Link.</a></p>
     <p><span>"Bio-plausible Hierarchical Semi-Supervised Learning for Intrusion Detection" poster presented at</span><span style="color:#05bf85;"> ACM ICONS-23 Santa Fe.</span></p>
+    <p><span>"Cyber-Neuro RT: Real-time Neuromorphic Cybersecurity" paper presented at</span><span style="color:#05bf85;"> International Conference on Brain-Inspired Cognitive Architectures for Artificial Intelligence Mexico 2022.</span></p>
    <p><span>"Multi scale mirror connection based encoder decoder network for text localization." published in</span><span style="color:#05bf85;"> Pattern Recognition Letters 2020</span> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167865520301227">Paper Link.</a></p>
 </blockquote>
 <style>
