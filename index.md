@@ -5,6 +5,7 @@ feature_text:
 Passionate Brain-inspired ML Researcher, Engineer, Reader...
 
 <blockquote>
+  <p><span>Invited to serve as Reviewer for </span><span style="color:#05bf85;"> IEEE Transactions on Neural Networks and Learning Systems </span></p>
   <p><span>"SpikingBERT: Distilling BERT to Train Spiking Language Models Using Implicit Differentiation" to be presented at</span><span style="color:#05bf85;"> AAAI-24 Vancouver.</span> <a href="https://arxiv.org/pdf/2308.10873.pdf">Paper Link.</a></p>
     <p><span>"Equilibrium-Based Learning Dynamics in Spiking Architectures" to be presented at</span><span style="color:#05bf85;"> ISCAS-24 Singapore.</span></p>
     <p><span>"Delving Deeper Into Astromorphic Transformers" uploaded to arxiv</span> <a href="https://arxiv.org/pdf/2312.10925.pdf">Paper Link.</a></p>
