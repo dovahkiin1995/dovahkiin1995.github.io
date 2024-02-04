@@ -52,7 +52,7 @@ body {
   background-position: center;
   .container {
     min-height: 35vh;
-    max-width: 85%;
+    max-width: 60%;
     @include flex-direction(column);
     @include justify-content(center);
   }
@@ -137,7 +137,7 @@ body {
 
 .content {
   @include breakpoint(break-1) {
-    width: 62%;
+    width: 85%;
   }
 }
 
