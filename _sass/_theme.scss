@@ -1,11 +1,13 @@
 // Structural elements
 body {
+  
   background: $backgroundColour;
   color: $bodyColour;
   height: 100%;
   display: flex;
   @include flex-direction(column);
   overflow-x: hidden;
+  font-size: 85%;
 }
 
 .container {
