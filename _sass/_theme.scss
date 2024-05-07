@@ -11,7 +11,7 @@ body {
 .container {
   width: 90%;
   max-width: 1200px;
-  margin: 0 auto;
+  margin: 1 auto;
 }
 
 
@@ -382,7 +382,7 @@ textarea {
 }
 
 label {
-  @include baseline($fontsize: 3, $font: $bodytype, $lineheight: 2, $below: 2, $breakpoint: all);
+  @include baseline($fontsize:5, $font: $bodytype, $lineheight: 2, $below: 2, $breakpoint: all);
 }
 
 code {
