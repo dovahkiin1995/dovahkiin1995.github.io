@@ -2,7 +2,7 @@
 title: Malyaban Bal
 feature_text: 
 ---
-Passionate Brain-inspired ML Researcher, Reader, Writer, ...
+My research lies at the fascinating crossroads of multi-modal language models and brain-inspired, energy-efficient neural architectures. I strive to develop architectures/learning frameworks which can be modeled as continuously evolving dynamical systems.
 
 <blockquote>
   <p><span>Invited to serve as Reviewer for </span><span style="color:#05bf85;">ICML 2024 Workshop on Large Language Models and Cognition </span></p>
