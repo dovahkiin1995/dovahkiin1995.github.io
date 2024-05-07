@@ -5,7 +5,7 @@ feature_text:
 My research lies at the fascinating crossroads of multi-modal language models and brain-inspired, energy-efficient neural architectures. I strive to develop architectures/learning frameworks which can be modeled as continuously evolving dynamical systems.
 
 <blockquote>
-  <p><span>Invited to serve as Reviewer for </span><span style="color:#05bf85;">ICML 2024 Workshop on Large Language Models and Cognition </span></p>
+  <p><span>Invited to serve as Reviewer for </span><span style="color:#05bf85;">ICML 2024 Workshop on Large Language Models and Cognition. </span></p>
   <p><span>"Exploring Extreme Quantization in Spiking Language Models" uploaded to arxiv</span> <a href="https://arxiv.org/abs/2405.02543">Paper Link.</a></p>
   <p><span>"Scaling SNNs Trained Using Equilibrium Propagation to Convolutional Architectures" uploaded to arxiv</span> <a href="https://arxiv.org/abs/2405.02546">Paper Link.</a></p>
 
